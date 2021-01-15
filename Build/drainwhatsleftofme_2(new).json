@@ -1,0 +1,16 @@
+{
+"companyName": "CostasKazantzis",
+"productName": "drainwhatsleftofme",
+"productVersion": "0.1",
+"dataUrl": "drainwhatsleftofme_2(new).data.unityweb",
+"wasmCodeUrl": "drainwhatsleftofme_2(new).wasm.code.unityweb",
+"wasmFrameworkUrl": "drainwhatsleftofme_2(new).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.2f1"
+}
